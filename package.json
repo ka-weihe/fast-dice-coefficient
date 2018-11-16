@@ -1,7 +1,7 @@
 {
   "name": "fast-dice-coefficient",
   "version": "1.0.0",
-  "description": "",
+  "description": "Fastest implementation of Sørensen–Dice coefficient.",
   "main": "dice.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,10 +17,13 @@
   },
   "homepage": "https://github.com/ka-weihe/fast-dice-coefficient#readme",
   "dependencies": {
-    "benchmark": "^2.1.4",
-    "dice-coefficient": "^1.0.3",
-    "fast-levenshtein": "^2.0.6",
-    "natural": "^0.6.2",
-    "string-similarity": "^2.0.0"
-  }
+  },
+  "keywords": [
+    "sorensen",
+    "dice",
+    "coefficient",
+    "string",
+    "similarity",
+    "fast"
+  ]
 }
