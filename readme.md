@@ -11,9 +11,9 @@ $ npm i fast-dice-coefficient --save
 
 ### Usage
 ``` javascript
-dice = require('fast-dice-coefficient');
+var dice = require('fast-dice-coefficient');
 
-dice('javascript', 'coffeescript');
+console.log dice('javascript', 'coffeescript');
 //=> 0.5
 ```
 
