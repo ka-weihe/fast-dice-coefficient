@@ -1,6 +1,6 @@
 {
   "name": "fast-dice-coefficient",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Fastest implementation of Sørensen–Dice coefficient.",
   "main": "dice.js",
   "scripts": {
@@ -16,8 +16,7 @@
     "url": "https://github.com/ka-weihe/fast-dice-coefficient/issues"
   },
   "homepage": "https://github.com/ka-weihe/fast-dice-coefficient#readme",
-  "dependencies": {
-  },
+  "dependencies": {},
   "keywords": [
     "sorensen",
     "dice",
