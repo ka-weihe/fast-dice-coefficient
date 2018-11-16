@@ -1,0 +1,17 @@
+{exec} = require 'child_process'
+
+run = (options...) ->
+
+  process = exec (options.join ' ')
+  process.stdout.on 'data', console.log
+  process.stderr.on 'data', console.log
+
+task 'watch', ->
+
+  run 'coffee'
+  ,   '--watch'
+  ,   '--compile'
+  ,   '--bare'
+  ,   '--output'
+  ,   './'
+  ,   'coffee'
