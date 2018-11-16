@@ -20,7 +20,6 @@ dice('javascript', 'coffeescript');
 ### Benchmark
 
 200 samples on i7-3667u and 8GB RAM.
-```
 
 | Package                 | ops/sec |
 |-------------------------|---------|
@@ -29,4 +28,3 @@ dice('javascript', 'coffeescript');
 | dice-coefficient        | 14,732  |
 | fast-dice-coefficient   | 44,067  |
 | fast-levenshtein        | 4,495   |
-```
