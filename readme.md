@@ -6,7 +6,7 @@ This algorithm can be used to compute the similarity between strings. It return 
 ## Install
 
 ```
-$ npm i fast-dice-coefficient --save
+$ npm install fast-dice-coefficient --save
 ```
 
 ### Usage
