@@ -23,6 +23,8 @@ dice('javascript', 'coffeescript');
 
 Using two test-strings with 100 characters each.
 
+First 4 packages uses dice-coefficient and last uses levenshtein.
+
 | Package                 | ops/sec |
 |-------------------------|---------|
 | stringSimilarity        | 7,590   |
