@@ -21,6 +21,8 @@ dice('javascript', 'coffeescript');
 
 200 samples on i7-3667u and 8GB RAM.
 
+Using two test-strings with 100 characters each.
+
 | Package                 | ops/sec |
 |-------------------------|---------|
 | stringSimilarity        | 7,590   |
