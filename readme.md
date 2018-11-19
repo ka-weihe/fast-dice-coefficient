@@ -1,7 +1,7 @@
 # fast-dice-coefficient
 Fastest implementation of [Sørensen–Dice coefficient](https://en.wikipedia.org/wiki/S%C3%B8rensen%E2%80%93Dice_coefficient). This implementation has linear time complexity O(n), as opposed to other solutions: [string-similarity](https://www.npmjs.com/package/string-similarity), [dice-coefficient](https://www.npmjs.com/package/dice-coefficient), etc., running in quadratic time O(n<sup>2</sup>).
 
-This algorithm can be used to compute the similarity between strings. It return a fraction between 0 and 1, where 0 indicates no match and 1 indicates full match.
+This algorithm can be used to compute the similarity between strings. It returns a fraction between 0 and 1, where 0 indicates no match and 1 indicates full match.
 
 ## Install
 
