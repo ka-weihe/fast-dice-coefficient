@@ -1,5 +1,4 @@
-module.exports = 
-  dice = (fst, snd) ->
+module.exports = (fst, snd) ->
     if fst.length < 2 || fst.length < 2 
       return 0
 

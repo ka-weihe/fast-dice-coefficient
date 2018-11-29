@@ -16,8 +16,6 @@
     "url": "https://github.com/ka-weihe/fast-dice-coefficient/issues"
   },
   "homepage": "https://github.com/ka-weihe/fast-dice-coefficient#readme",
-  "dependencies": {
-  },
   "keywords": [
     "sorensen",
     "dice",
